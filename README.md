@@ -15,7 +15,7 @@ Built for indie teams, studios and collaborative game development pipelines.
 
 ---
 
-## ✨ Features
+## Features
 
 ### Current
 - Modular workspace dock
@@ -37,7 +37,7 @@ Built for indie teams, studios and collaborative game development pipelines.
 
 ---
 
-## 🎯 Philosophy
+##  Philosophy
 
 StarForge Collab is focused on:
 
@@ -52,7 +52,7 @@ The plugin is designed to feel like a natural extension of the Godot editor inst
 
 ---
 
-## 🧠 Vision
+## Vision
 
 The goal of StarForge Collab is to create a modern collaborative workspace experience for Godot developers without requiring expensive infrastructure or complex setup.
 
@@ -64,7 +64,7 @@ Instead of replacing existing tools, StarForge enhances workflows around:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Godot 4.x
 - GDScript
@@ -74,13 +74,13 @@ Instead of replacing existing tools, StarForge enhances workflows around:
 
 ---
 
-## 📦 Installation
+## Installation
 
 Coming soon.
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
 Early Alpha Development
 
@@ -88,7 +88,7 @@ The plugin architecture is currently under active development and subject to cha
 
 ---
 
-## 🏢 Developed By
+## Developed By
 
 Rioby
 
@@ -98,9 +98,9 @@ Rioby
 
 If you want to support the development of StarForge Collab in the future:
 
-[ Buy Me a Coffee ] (link futuramente)
+[ Buy Me a Coffee ] 
 
 ---
 
-## 📄 License
-
+## License
+Apache 2.0
